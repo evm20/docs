@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/evm20/docs/blob/main/docs/',
+            'https://github.com/evm20/docs/blob/main/',
         },
         blog: {
           showReadingTime: true,
