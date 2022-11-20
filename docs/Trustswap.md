@@ -1,1 +1,5 @@
-and workspace ready.
+- TrustSwap vs Uniswap
+-- Antelop
+---- TrustEVM
+---- Telos
+---- WAX
