@@ -32,13 +32,13 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-         Coins: {
-           sidebarPath: require.resolve('./sidebars.js'),
+        // docs: {
+        //   sidebarPath: require.resolve('./sidebars.js'),
         //   // Please change this to your repo.
         //   // Remove this to remove the "edit this page" links.
-          editUrl:
-             'https://www.trustswap.finance',
-         },
+        //  editUrl:
+        //     'https://www.trustswap.finance',
+        // },
         // blog: {
         //  showReadingTime: true,
         //  // Please change this to your repo.
