@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'TrustSwap Documentation',
+  title: 'TrustSwap',
   tagline: 'TrustSwap on TrustEVM, Telos EVM and WAX EVM',
   url: 'https://docs.trustswap.finance',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/trustswap-logo-small.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -77,6 +77,8 @@ const config = {
           },
         ],
       },
+
+      
       footer: {
         style: 'dark',
         links: [
