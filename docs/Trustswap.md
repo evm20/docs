@@ -1,5 +1,5 @@
 - TrustSwap vs Uniswap
--- Antelop
+-- Antelope
 ---- TrustEVM
 ---- Telos
 ---- WAX
