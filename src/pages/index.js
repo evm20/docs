@@ -17,14 +17,15 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            TrustSwap Introduction - 5min ⏱️
+            to="/docs/trustswap">
+            TrustSwap Documentation
           </Link>
         </div>
       </div>
     </header>
   );
 }
+
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
