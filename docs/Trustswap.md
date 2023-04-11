@@ -1,5 +1,5 @@
-- TrustSwap vs Uniswap
+- Frogge.finance vs Uniswap
 -- Antelop
----- TrustEVM
----- Telos
----- WAX
+---- EOS EVM
+---- WAX EVM
+---- TELOS EVM
