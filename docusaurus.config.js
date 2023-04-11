@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'TrustSwap Documentation',
-  tagline: 'TrustSwap on TrustEVM, Telos EVM and WAX EVM',
-  url: 'https://docs.trustswap.finance',
+  title: 'Frogge.finance Documentation',
+  tagline: 'Frogge.finance on EOS EVM, Telos EVM and WAX EVM',
+  url: 'https://docs.frogge.finance',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
