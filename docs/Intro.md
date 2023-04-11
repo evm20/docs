@@ -1,3 +1,18 @@
+prorogue / history
+- Bitcoin
+- Ethereum
+-- Uniswap
+- EOS
+-- EOS EVM.
+- TELOS EVM
+- WAX EVM
+- FroggeFinance
+-- tokenomics
+-- incentives
+-- code
+-- security
+-- community
+
 The Uniswap Protocol
 Introduction
 The Uniswap protocol is a peer-to-peer1 system designed for exchanging cryptocurrencies (ERC-20 Tokens) on the Ethereum blockchain. The protocol is implemented as a set of persistent, non-upgradable smart contracts; designed to prioritize censorship resistance, security, self-custody, and to function without any trusted intermediaries who may selectively restrict access.
