@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="TrustSwap <head />">
+      description="Frogge.finance <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
