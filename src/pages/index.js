@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            TrustSwap Introduction - 5min ⏱️
+            Frogge.finance Introduction - 5min ⏱️
           </Link>
         </div>
       </div>
