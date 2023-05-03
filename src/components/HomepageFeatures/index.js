@@ -4,14 +4,15 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'The first swap on EOS EVM',
-    Svg: require('@site/static/img/logo.png').default,
+    title: 'The first swap on EOSEVM',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Lets go Frogges!
+       Lets go Frogges!...
       </>
     ),
   },
+
 ];
 
 function Feature({Svg, title, description}) {
