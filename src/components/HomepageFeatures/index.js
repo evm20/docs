@@ -4,6 +4,13 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
+    title: 'The first swap on EOS EVM',
+    Svg: require('@site/static/img/logo.png').default,
+    description: (
+      <>
+        Lets go Frogges!
+      </>
+    ),
   },
 ];
 
