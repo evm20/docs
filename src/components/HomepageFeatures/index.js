@@ -2,17 +2,10 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-//const FeatureList = [
-//  {
-//    title: 'The first swap on EOS EVM',
-//    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-//    description: (
-//     <>
-//        We are just getting started...
-//      </>
-//   ),
-//  },
-// ];
+const FeatureList = [
+  {
+  },
+];
 
 function Feature({Svg, title, description}) {
   return (
