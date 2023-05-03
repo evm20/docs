@@ -95,7 +95,7 @@ const config = {
               
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/jointrustswap',
+                href: 'https://twitter.com/froggefinance',
               },
             ],
           },
@@ -109,7 +109,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} TrustSwap`,
+        copyright: `Copyright © ${new Date().getFullYear()} Frogge.finance`,
       },
       prism: {
         theme: lightCodeTheme,
